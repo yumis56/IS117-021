@@ -31,6 +31,7 @@ Livingston, NJ &nbsp; &nbsp; &nbsp; +1 201 673 6367 &nbsp; &nbsp; &nbsp; song.yu
 
 ### **Freelance Editor**
 ### St. Francis Academy
+##### 2019 - 2023
 ####
 + Performed yearbook and photo editing for the official yearbook of St. Francis Academy
 + Utilized software to enhance and repair images based on set standards and customer specifications
@@ -40,14 +41,15 @@ Livingston, NJ &nbsp; &nbsp; &nbsp; +1 201 673 6367 &nbsp; &nbsp; &nbsp; song.yu
 ## **Volunteer Experience**
 ### **Student Volunteer**
 ### The Rotary Club of the Caldwells
+##### 2019 - 2021
 ####
 + Updated product tickets according to the current week and introducing new merchandise into the store's lifecycle
 + Managed backroom inventory and end-of-day sales receipts using Microsoft Excel
 + Communicated with customers and colleages in daily shop operations
 
 ## **Activities**
-Ballroom dancing (DanceSport Club - President, collegiate competitions)
-Girls Who Code (Summer Immersion Program)
-Volunteer for digital marketing and online fundraising products, such as stickers and posters
-Freelance commisions for 2D and 3D works
+Ballroom dancing (DanceSport Club - President, collegiate competitions)  
+Girls Who Code (Summer Immersion Program)  
+Volunteer for digital marketing and online fundraising products, such as stickers and posters  
+Freelance commisions for 2D and 3D works  
 String orchestra (viola, violin)
