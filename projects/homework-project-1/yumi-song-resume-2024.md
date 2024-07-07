@@ -1,5 +1,5 @@
 # Yumi Song
-Livingston, NJ &nbsp; +1 201 673 6367 &nbsp; song.yumi@outlook.com
+Livingston, NJ &nbsp; &nbsp; &nbsp; +1 201 673 6367 &nbsp; &nbsp; &nbsp; song.yumi@outlook.com
 
 ## **Education**
 ### Bachelor of Science in Information Technology
@@ -13,17 +13,41 @@ Livingston, NJ &nbsp; +1 201 673 6367 &nbsp; song.yumi@outlook.com
 
 ## **Work Experience**
 ### **Store Employee**
-### The UPS Store\
+### The UPS Store
+##### 2021 - 2022
+#### 
++ Organized inbound and outbound shipments through recording of item descprition and pricing, ensuring policy compliance, assesing available resources and space, and accounting of related data
++ Prepared shipment by calculating appropriate packing requirements, postage and labels, and tools and supplies
++ Corresponded with clients in-person and through phone calls to answer inquiries, administrate accounts, and document customer feedback
++ Oversaw routing process, carrier receipts, shipping and work orders
 
 ### **Student Intern**
-### Greeting Life America\
+### Greeting Life America
+##### 2020 - 2021
+####
++ Maintained inventory of products and managed current stock, purchase orders, and returns using proprietary software
++ Consolidated products in warehouse according to category and size which streamlines future shipments
++ Reviewed accuracy of order inputs to track product trends and inventory counts
 
 ### **Freelance Editor**
-### St. Francis Academy\
+### St. Francis Academy
+####
++ Performed yearbook and photo editing for the official yearbook of St. Francis Academy
++ Utilized software to enhance and repair images based on set standards and customer specifications
++ Designed and produced digital graphics coinciding with yearbook themes
++ Coordinated with yearbook team to meet delivery schedules and review deliverables
 
 ## **Volunteer Experience**
 ### **Student Volunteer**
-### The Rotary Club of the Caldwells\
+### The Rotary Club of the Caldwells
+####
++ Updated product tickets according to the current week and introducing new merchandise into the store's lifecycle
++ Managed backroom inventory and end-of-day sales receipts using Microsoft Excel
++ Communicated with customers and colleages in daily shop operations
 
 ## **Activities**
-#### TODO
+Ballroom dancing (DanceSport Club - President, collegiate competitions)
+Girls Who Code (Summer Immersion Program)
+Volunteer for digital marketing and online fundraising products, such as stickers and posters
+Freelance commisions for 2D and 3D works
+String orchestra (viola, violin)
