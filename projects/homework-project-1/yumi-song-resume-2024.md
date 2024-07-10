@@ -6,10 +6,12 @@ Livingston, NJ &nbsp; &nbsp; &nbsp; +1 201 673 6367 &nbsp; &nbsp; &nbsp; song.yu
 #### New Jersey Institute of Technology
 
 ## **Skills**
-### **Programming:** Python; Java; C#; C/C++; SQL
-### **Development:** HTML; CSS; JavaScript
-### **Applications / Software:** Microsoft Office Suite and Copilot; Microsoft Teams; Microsoft SQL Server; Visual Studio; Visual Studio Code; Unity and Unity VR; Blender; VMware; Ansible
-### **Operating System:** Windows; Linux; Android; iOS
+### **Programming:** Python, Java, C#, C/C++, SQL
+### **Web Development:** HTML, CSS, JavaScript
+### **Software:** Visual Studio / VS Code, Unity and Unity VR, Blender, VMware, Ansible, Git
+### **Databases:** Microsoft SQL Server
+### **Microsoft:** Office Suite, Teams, Copilot
+### **Operating System:** Windows, Linux, Android, iOS
 
 ## **Work Experience**
 ### **Store Employee**
