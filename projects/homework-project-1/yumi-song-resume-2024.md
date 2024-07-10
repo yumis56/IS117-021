@@ -18,9 +18,9 @@ Livingston, NJ &nbsp; &nbsp; &nbsp; +1 201 673 6367 &nbsp; &nbsp; &nbsp; song.yu
 ### The UPS Store
 ##### 2021 - 2022
 #### 
-+ Organized inbound and outbound shipments through recording of item descprition and pricing, ensuring policy compliance, assesing available resources and space, and accounting of related data
++ Organized inbound and outbound shipments through recording of item description and pricing, ensuring policy compliance, assessing available resources and space, and accounting of related data
 + Prepared shipment by calculating appropriate packing requirements, postage and labels, and tools and supplies
-+ Corresponded with clients in-person and through phone calls to answer inquiries, administrate accounts, and document customer feedback
++ Corresponded with clients in-person and through phone calls to answer inquiries, administer accounts, and document customer feedback
 + Oversaw routing process, carrier receipts, shipping and work orders
 
 ### **Student Intern**
@@ -47,7 +47,7 @@ Livingston, NJ &nbsp; &nbsp; &nbsp; +1 201 673 6367 &nbsp; &nbsp; &nbsp; song.yu
 ####
 + Updated product tickets according to the current week and introducing new merchandise into the store's lifecycle
 + Managed backroom inventory and end-of-day sales receipts using Microsoft Excel
-+ Communicated with customers and colleages in daily shop operations
++ Communicated with customers and colleagues in daily shop operations
 
 ## **Activities**
 Ballroom dancing (DanceSport Club - President, collegiate competitions)  
